@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<declare-styleable name="lable_view">-->
+        <!--<attr name="horizontalSpace" format="integer"/>-->
+        <!--<attr name="verticalSpace" format="integer"/>-->
+        <!--<attr name="divideSurplus" format="boolean"/>-->
+        <!--<attr name="labelTextPaddingLeft" format="dimension"/>-->
+        <!--<attr name="labelTextPaddingTop" format="dimension"/>-->
+        <!--<attr name="labelTextPaddingRight" format="dimension"/>-->
+        <!--<attr name="labelTextPaddingBottom" format="dimension"/>-->
+        <!--<attr name="labelBackground" format="dimension|reference"/>-->
+        <!--<attr name="labelTextColor" format="color"/>-->
+        <!--<attr name="labelTextSize" format="dimension"/>-->
+    <!--</declare-styleable>-->
+
+    <declare-styleable name="lable_view">
+        <attr name="lable_view_horizontalSpace" format="dimension"/>
+        <attr name="lable_view_verticalSpace" format="dimension"/>
+    </declare-styleable>
+</resources>
