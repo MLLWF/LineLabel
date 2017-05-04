@@ -17,5 +17,6 @@
     <declare-styleable name="lable_view">
         <attr name="lable_view_horizontalSpace" format="dimension"/>
         <attr name="lable_view_verticalSpace" format="dimension"/>
+        <attr name="lable_view_average_width" format="boolean" />
     </declare-styleable>
 </resources>
